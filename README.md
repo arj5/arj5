@@ -1,5 +1,5 @@
 # Hi there, I'm Arjun Sharma 👋
-# Welcome to my Github 
+Welcome to my Github 
 
 ## About me 😳
 
