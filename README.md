@@ -10,14 +10,15 @@ Welcome to my Github
 
 ## Skills 👾
 
-**Programming Languages:** Python, Java, JavaScript, Typescript, HTML, CSS, C#, C, Bash, Lisp
+**Programming Languages:** Python, Java, JavaScript, Typescript, HTML, CSS, C#, C, Bash, Lisp, Perl, PHP, SQL
 **Frameworks:** React, Tailwind, Bootstrap
 **Tools:** Git/GitHub, APIs, Linux, VS Code, Unity, Figma, Procreate, Adobe Apps
 
 ## Connect with me 🌐
 
-[LinkedIn](www.linkedin.com/in/arjunsharma0510) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arjunsharma0510)
 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arjunsharma0510@gmail.com)
 
 
 <!--
