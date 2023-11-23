@@ -11,7 +11,9 @@ Welcome to my Github
 ## Skills 👾
 
 **Programming Languages:** Python, Java, JavaScript, Typescript, HTML, CSS, C#, C, Bash, Lisp, Perl, PHP, SQL
+
 **Frameworks:** React, Tailwind, Bootstrap
+
 **Tools:** Git/GitHub, APIs, Linux, VS Code, Unity, Figma, Procreate, Adobe Apps
 
 ## Connect with me 🌐
