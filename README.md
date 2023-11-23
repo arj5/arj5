@@ -1,10 +1,10 @@
 # Hi there, I'm Arjun Sharma 👋
 Welcome to my Github 
 
-## About me 😳
+## About me 👨🏽‍💻
 
 - 📚 I'm a second-year computer science student @ Toronto Metropolitan University 
-- 👨‍💻 Passion For coding, learning and building projects -> to beome a Software Engineer!
+- 💻 Passion For coding, learning and building projects -> to beome a Software Engineer!
 - 🔍 Searching for Summer 2024 Internships
 
 
