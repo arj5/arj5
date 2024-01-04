@@ -12,7 +12,7 @@ Welcome to my Github
 
 **Programming Languages:** Python, Java, JavaScript, Typescript, HTML, CSS, C#, C, Bash, Lisp, Perl, PHP, SQL
 
-**Frameworks:** React, Tailwind, Bootstrap
+**Frameworks:** React, Tailwind, Bootstrap, JQuery, Flask
 
 **Tools:** Git/GitHub, APIs, Linux, VS Code, Unity, Figma, Procreate, Adobe Apps
 
